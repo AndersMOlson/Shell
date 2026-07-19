@@ -27,6 +27,7 @@ Supported Funcitonality:
 - Arrow keys (History)
 
 To add:
+- Add more comments to enhance readability
 - many "goto" commands to clean up code (I only learned about this funtionality in C recently)
 - potentially sectioning off more code into .h files (I only did jobs to teach myself)
 
