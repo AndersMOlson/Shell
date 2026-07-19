@@ -1,5 +1,3 @@
-// Replace everything with "Replace" or "Remove"
-
 /*
   Part 0: Libraries
 */
