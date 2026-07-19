@@ -1,6 +1,11 @@
 # Shell
 Custom Shell script made in C (to teach me C and kick start other projects)
 
+To compile and run the file use the following commands in Linux (or wsl):
+gcc *.c -o shell
+./shell
+
+
 Builtin Functions:
 - cd
 - help
